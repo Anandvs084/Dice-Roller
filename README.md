@@ -1,2 +1,2 @@
 # Dice-Roller
-Created a Dice roller game using React JS,HTML,CSS
+Created a  fun Dice roller game using React JS,HTML,CSS
