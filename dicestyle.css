@@ -1,0 +1,33 @@
+#gamecontainer{
+    text-align: center;
+    backdrop-filter: initial;
+
+}
+label{
+    text-decoration: solid 10px black;
+    text-align: inherit;
+
+}
+input{
+    width: 100px;
+    height: 25px;
+    text-align: center;
+
+
+}
+button{
+    font-size: 15px ;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(35, 134, 158);
+    color: beige;
+    width: 75px;
+}
+button:hover{
+    background-color: green;
+}
+button:active{
+    background-color: black;
+}
+#resultimage{
+    box-sizing: border-box;
+}
